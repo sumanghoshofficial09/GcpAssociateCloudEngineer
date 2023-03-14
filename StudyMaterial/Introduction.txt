@@ -1,0 +1,10 @@
+GCP platform has 200 + services , among them we need 40 plus services :
+It has web console we can called it as just console 
+there are wide variety of services under different category under google cloud platform 
+Exam demands in depth Knowledge of these services 
+Exam also test your decission making abilities which service you can use on which occassio 
+like that 
+what is the right compute for a specific scenario and what is the right database for 
+specific scenario 
+Gain knowledge and apply in the project 
+Expected to remember number of services
