@@ -1,0 +1,28 @@
+Under standing regions and zones : it will help us to create highly available architecture 
+Section 3 : we will see various compute services present in google cloud 
+Compute Engine : used to create virtual machines 
+Section 4 : how to optimise the use of compute instances 
+Section 5 : proficiency in command line utility GCLOUD 
+Section 6 : how to group instances using instance groups
+Section 7 : how to load balance between group of instances using load balancers
+Section 8 : Manage services in google cloud platform which makes it easy to deploy services 
+in google cloud platform 
+Section9  : Google cloud App Engine 
+Section 10  : Google cloud orchestration solution , Google kubernetes engines
+Section 11 : how to use google cloud function : build event sriven architecture using 
+Google cloud functions
+Section 12 : play with google cloud run 
+Storage :
+------
+
+section 13 : 
+Encrypting data with cloud KMS 
+
+Section 14 : Block and file storage 
+
+Section 15 : object storage 
+
+Section 16 : security is very important in cloud it is way beyond important
+
+Authentication and Authorization using Google CLoud IAM
+
